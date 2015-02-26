@@ -8,6 +8,7 @@ This was the tool I wrote to help me decode an encrypted email in a programming 
 - Find the valid decryption and look at the index number associated with it
 - Input the index number back into the prompt in the python shell
 - Your file will be decrypted and written to disk.
+
 ###Disclaimer
 I wrote this script for a fun challenge, and an exercise in problem solving.
 Please only use this for educational purposes. I cannot be held liable for any actions taken/caused by those who use this script.
