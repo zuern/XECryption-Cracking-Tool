@@ -2,7 +2,7 @@
 This tool provides a means for decrypting text encrypted using the XECryption algorithm.
 This was the tool I wrote to help me decode an encrypted email in a programming challenge.
 ###Using the script
-- Run the script in python and call 'decryptFile("<path_to_file>")
+- Run the script in python and call 'decryptFile("your_path_to_file")
 - Follow the on screen instructions.
 - The script will write a file to disk containing the possible decryptions.
 - Find the valid decryption and look at the index number associated with it
